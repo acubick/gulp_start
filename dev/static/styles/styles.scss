@@ -1,0 +1,11 @@
+@import "helpers/fonts";
+@import "modules/header.scss";
+
+body {
+    display: flex;
+    background-color: greenyellow;
+   font-family: "SFProDisplay", sans-serif;
+    font-weight: bold;
+    color: green;
+    font-size: 30px;
+}
