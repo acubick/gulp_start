@@ -1,6 +1,5 @@
-
 dist/
-
+черновики/
 # Created by .ignore support plugin (hsz.mobi)
 
 config/keys.dev.js
@@ -219,4 +218,3 @@ fabric.properties
 .idea/vcs.xml
 
 /.gtm/
-
