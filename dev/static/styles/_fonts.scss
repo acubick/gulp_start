@@ -1,4 +1,4 @@
-@import "_mixins/font-face";
+@import "helpers/_mixins/font-face";
 
 @include font-face("SFProDisplay", "../fonts/SFProDisplay-Bold/SFProDisplay-Bold", bold);
 @include font-face("SFProDisplay", "../fonts/SFProDisplay-Semibold/SFProDisplay-Semibold", 600);

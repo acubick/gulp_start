@@ -1,11 +1,16 @@
-@import "helpers/fonts";
-@import "modules/header.scss";
+@import 'vars';
+@import 'fonts';
+@import 'reset';
+@import 'libs';
+@import 'global';
+@import 'outline';
 
-body {
-    display: flex;
-    background-color: greenyellow;
-   font-family: "SFProDisplay", sans-serif;
-    font-weight: bold;
-    color: green;
-    font-size: 30px;
+
+body{
+	background-color: #255;
+}
+.here{
+	font-family: "SFProDisplay", sans-serif;
+	font-weight: bold;
+	color: white;
 }
